@@ -1,7 +1,7 @@
 # cordova-share
 cordova 入门基础分享
 # 目录介绍
-* hello目录是cordova项目目录，克隆下来之后需要在npm install 安装依赖
+* hello目录是cordova项目目录，克隆下来,环境配置完成安装依赖npm install,否则
   > * 安装node
   > * npm install -g cordova 
   > * 安装Android SDK 和 安装Java 开发工具包（Jdk) [android SDK安装以及环境变量配置](https://blog.csdn.net/zeternityyt/article/details/79655150) [JDK安装与环境变量配置](https://jingyan.baidu.com/article/6dad5075d1dc40a123e36ea3.html)--- Android 平台
@@ -11,6 +11,7 @@ cordova 入门基础分享
   > * 运行：nodeppt start
 # 学习资源
 * [Cordova官网](http://cordova.apache.org/) 
+* [android SDK下载](http://sdk.android-studio.org) [JDK下载](http://jdk.android-studio.org)
 * [android SDK安装以及环境变量配置](https://blog.csdn.net/zeternityyt/article/details/79655150) [JDK安装与环境变量配置](https://jingyan.baidu.com/article/6dad5075d1dc40a123e36ea3.html)
 * [cordova常用命令](https://blog.csdn.net/zp511253886/article/details/49817637)
 * [config.xml介绍w3cschool](https://www.w3cschool.cn/cordova/cordova_config_xml.html)
