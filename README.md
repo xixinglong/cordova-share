@@ -6,6 +6,8 @@ cordova 入门基础分享
   > * npm install -g cordova 
   > * 安装Android SDK 和 安装Java 开发工具包（Jdk) [android SDK安装以及环境变量配置](https://blog.csdn.net/zeternityyt/article/details/79655150) [JDK安装与环境变量配置](https://jingyan.baidu.com/article/6dad5075d1dc40a123e36ea3.html)--- Android 平台
   > * 创建第一个cordova应用
+  > * 打包后生成apk:项目路径\platforms\android\build\outputs\apk
+  > * 打包生成apk文件后，可以安装到夜神模拟器上模拟运行，也可以安装到真机上运行。
 * ppt目录是ppt讲解，此处需要安装nodeppt
   > * 安装：npm install -g nodeppt
   > * 运行：nodeppt start
